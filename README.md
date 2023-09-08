@@ -38,4 +38,3 @@ Este projeto demonstra o processo completo de aplicação do algoritmo K-Means a
 
 ---
 
-Esta é a continuação da documentação em Markdown. Certifique-se de personalizar o conteúdo e adicionar informações relevantes ao seu projeto, conforme necessário.
